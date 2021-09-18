@@ -1,6 +1,6 @@
 git status -> prints the status of the Git Repository
 git init-> Initialize the get repository
-git config --global user.name "VijGi"
+git config --global user.name "VijGi"  -> Specify user name
 git config --global user.email vijayrajua84@gmail.com
 git config user.name "VijGi"
 git config user.email vijayrajua84@gmail.com
